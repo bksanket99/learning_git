@@ -1,2 +1,2 @@
 # learning_git
-github Project Study
+github Project Studies
